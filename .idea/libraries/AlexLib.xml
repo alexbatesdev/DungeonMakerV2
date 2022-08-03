@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AlexLib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../AlexLib/out/artifacts/AlexLib_jar/AlexLib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
